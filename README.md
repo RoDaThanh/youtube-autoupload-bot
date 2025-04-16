@@ -10,9 +10,9 @@ Before to start:
 * Take an eyses on imports library in script
 * chrome version 11
 
-There is 2 script
-- one is download.py
-- second is uploadVideo.py
+There are 2 scripts:
+- The first is download.py
+- The second is uploadVideo.py
 
 ``` download.py ``` is for dowload videos from tiktok that you defind in script. 
 For example: 
